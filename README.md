@@ -108,3 +108,9 @@ Precisa de um aliado para sua próxima *quest*? Envie-me um corvo-correio!
    <img src="https://github.com/user-attachments/assets/847d015a-7a3b-4d12-a86b-6fdb4cc5ed04" target="_blank">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HudSalm/HudSalm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HudSalm/HudSalm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HudSalm/HudSalm/output/github-contribution-grid-snake.svg">
+</picture>
+
