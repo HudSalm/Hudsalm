@@ -4,7 +4,7 @@
 
   <h1>Saudações, Visitante!</h1>
   
-  <p>Você acessou o grimório de <strong>Hudson Salmistraro</strong>, um <strong>Bardo Front-End</strong> em uma jornada épica pelo mundo do desenvolvimento.</p>
+  <p>Você acessou o grimório de <strong>Hudson Salmistraro</strong>, um bardo em uma jornada épica pelo mundo do desenvolvimento.</p>
 
   <p>Minha missão é forjar artefatos digitais (também conhecidos como software) que solucionem problemas dos meus clientes e obviamente derrotar a legião de bugs que se atreverem a cruzar o meu caminho.</p>
 
@@ -18,8 +18,8 @@
 | :--- | :--- | :--- |
 | **Nome** | `Hudson Salmistraro` | - |
 | **Nível** | `24` | Idade |
-| **Classe** | `Desenvolvedor Front End` | Área de atuação |
-| **Guilda** | `Fiel Soluções` | Empresa atual |
+| **Classe** | `Desenvolvedor/Analista de Dados` | Área de atuação |
+| **Guilda** | `Grupo Zero9` | Empresa atual |
 | **Status** | `Em treinamento` | Estudando tecnologias novas |
 
 ---
