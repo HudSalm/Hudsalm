@@ -17,9 +17,9 @@
 | Atributo | Valor | Descrição |
 | :--- | :--- | :--- |
 | **Nome** | `Hudson Salmistraro` | - |
-| **Nível** | `24` | Idade |
+| **Nível** | `25` | Idade |
 | **Classe** | `Desenvolvedor/Analista de Dados` | Área de atuação |
-| **Guilda** | `Grupo Zero9` | Empresa atual |
+| **Guilda** | `Deep` | Empresa atual |
 | **Status** | `Em treinamento` | Estudando tecnologias novas |
 
 ---
@@ -43,6 +43,7 @@ Aqui estão os feitiços e técnicas que domino:
   - `Bigorna da Agilidade (Git / GitHub)`
   - `Chamas da Nuvem (Supabase)`
   - `Forja dos deuses (Expo)`
+  - `Sabedoria Divina (Power BI)`
 
 ---
 
